@@ -1,0 +1,22 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+
+  * What new skills have you learned?
+
+  * What has been easy?
+ 
+ * What has been difficult?
+  
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+---
+
+Your response goes here!
+
+*There is an improveent in my typing speed as well as in learning and remembring tags .
+
+*Its easy and intersting to code and the joy I feel after completing my project is just awesome .
+
+*Difficult part is I don't read the requirement asked but just start the coding and tries to make the same file as asked. Due to this reason only I skipped this .txt file.. ;-)
+
+*As such i hadn't face such problem yet , because the videos are very much usefull . 
