@@ -1,0 +1,41 @@
+body {
+	font-family: "Lato", sans-serif;
+	color: #922B21;
+	font-weight: 400;
+	text-align: justify;
+}
+.logo {
+	height: 100px;
+	width: 100px;
+	margin-top: 20px;
+}
+.thin {
+	font-weight: 100;
+}
+.name-text {
+	font-size: 59px;
+}
+.muted {
+	color: #17202A;
+	font-weight: bold;
+}
+.app-img {
+	height: 200px;
+	width: 350px;
+}
+.text {
+	text-align: center;
+}
+@media screen and (max-width:600px) {
+	.name-text {
+		font-size: 20px;
+	}
+	.proffesion {
+		font-size: 10px;
+	}
+	.logo {
+		height: 50px;
+		width: 50px;
+		margin-top: 5px;
+	}
+}
